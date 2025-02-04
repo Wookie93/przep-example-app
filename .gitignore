@@ -55,3 +55,6 @@ storybook-static
 
 # Private npm registry config file
 .npmrc
+
+przep-example-app/
+Katalog bez nazwy/

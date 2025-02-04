@@ -40,7 +40,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/przeprogramowani/opanuj-frontend-monorepo.git",
+    "url": "git+https://github.com/Wookie93/opanuj-frontend-monorepo.git",
     "directory": "packages/core-components"
   }
 }
